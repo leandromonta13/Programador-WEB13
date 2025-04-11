@@ -1,4 +1,4 @@
-# Olá, eu sou PROGRAMADOR-web13! 👋
+# Olá, eu sou PROGRAMADOR-WEB13! 👋
 
 ## Sobre mim
 Sou um desenvolvedor iniciante com foco em Front-end, apaixonado por criar websites e aplicações web. Tenho conhecimento básico em **HTML**, **CSS** e **JavaScript**, e estou sempre buscando aprender novas tecnologias para melhorar minhas habilidades.
